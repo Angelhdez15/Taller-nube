@@ -5,8 +5,9 @@ function sumar(a, b) {
 console.log(sumar(2, 4)); 
 
 //funcion para restar
-function sumar(a, b) {
+function restar(a, b) {
     return a-b;
 }
-console.log(sumar(4, 2)); 
+console.log(restar(4, 2)); 
 
+//holis
